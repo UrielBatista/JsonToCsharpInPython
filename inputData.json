@@ -1,0 +1,24 @@
+{
+  "data_load": 
+  {
+      "legalFeeNet": 363.54,
+      "name": "Will",
+      "legalFeeVat": 72.708,
+      "discountNet": 0.0,
+      "discountVat": 0.0,
+      "otherNet": 12.0,
+      "otherVat": 2.4,
+      "disbursementNet": 220.0,
+      "disbursementVat": 0.0,
+      "amlCheck": null,
+      "legalSubTotal": 363.54,
+      "totalFee": 450.648,
+      "discounts": 0.0,
+      "vat": 75.108,
+      "discountedPrice": 360.5184,
+      "recommendedRetailPrice": 450.648,
+      "subTotal": 375.54,
+      "isDiscounted": false,
+      "customerCount": 3
+    }
+}
